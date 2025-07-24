@@ -94,13 +94,12 @@ Missing values are auto-handled. Label encoding is internally applied.
 ---
 
 **📷 Sample Screenshots**                                                                                                                                                                                         
-![WhatsApp Image 2025-07-24 at 15 21 20_e65ea697](https://github.com/user-attachments/assets/7f3ca893-2b55-4a22-856b-5c4e90bee6ab)\
+![WhatsApp Image 2025-07-24 at 15 21 20_e65ea697](https://github.com/user-attachments/assets/7f3ca893-2b55-4a22-856b-5c4e90bee6ab)
 ![WhatsApp Image 2025-07-24 at 15 40 44_a7700235](https://github.com/user-attachments/assets/636f870b-0abb-45b0-942b-a3dc819edca1)
 ![WhatsApp Image 2025-07-24 at 15 21 21_985f6ded](https://github.com/user-attachments/assets/aa524c78-18d8-4338-a459-71021a9e9b07)
-![WhatsApp Image 2025-07-24 at 15 21 22_136de2d7](https://github.com/user-attachments/assets/107c1254-2c7d-47da-b205-de37d2eb30d1)
 ![WhatsApp Image 2025-07-24 at 15 21 21_304961c3](https://github.com/user-attachments/assets/21d5f8a5-4853-42c5-98f8-bd90ca8366ee)
+![WhatsApp Image 2025-07-24 at 15 21 22_136de2d7](https://github.com/user-attachments/assets/107c1254-2c7d-47da-b205-de37d2eb30d1)
 ![WhatsApp Image 2025-07-24 at 15 21 22_f383f0af](https://github.com/user-attachments/assets/7f34afe3-5485-4d24-bb96-dc1719a04fed)
-
 ![WhatsApp Image 2025-07-24 at 15 21 23_fb2dbc09](https://github.com/user-attachments/assets/57078815-595c-4bcb-a3fd-33a5676fd8b7)
 ![WhatsApp Image 2025-07-24 at 15 21 21_0ac61d7e](https://github.com/user-attachments/assets/69464457-8611-4d4f-8f35-047c2e205fea)
 
